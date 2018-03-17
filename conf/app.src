@@ -1,0 +1,6 @@
+SOURCE_URL=https://github.com/tracim/tracim.git
+SOURCE_SUM=sha256 checksum
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=zip
+SOURCE_IN_SUBDIR=true
+SOURCE_FILENAME=tracim
