@@ -79,7 +79,7 @@ ynh_app_setting_set $app port $port
 # INSTALL DEPENDENCIES
 #=================================================
 
-ynh_install_app_dependencies git curl realpath redis-server python3 python-virtualenv python3-dev python-pip  python-lxml
+ynh_install_app_dependencies git curl realpath redis-server python3 python-virtualenv python3-dev python-pip  python-lxml \
                  build-essential libxml2-dev libxslt1-dev zlib1g-dev libjpeg-dev libmagickwand-6.q16-3 gearbox
 
 #=================================================
